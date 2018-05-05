@@ -1,0 +1,8 @@
+CHIP 8 Documentation: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+NES Documentation: http://www.nesdev.com/NESDoc.pdf
+SNES Documentation: https://wiki.superfamicom.org/
+Game Boy / DMG ( Dot Game Matrix ) Documentation: http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
+Nice vids on Game Boy hardware:
+	Part 1:   https://www.youtube.com/watch?v=RZUDEaLa5Nw
+	Part 1.5: https://www.youtube.com/watch?v=t0V-D2YMhrs
+	Part 2:   https://www.youtube.com/watch?v=ecTQVa42sJc
